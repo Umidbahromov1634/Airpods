@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'PO';
+    src: url('../Fonts/ProstoOne-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'MS-R';
+    src: url('../Fonts/Montserrat-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'MS-M';
+    src: url('../Fonts/Montserrat-Medium.ttf');
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'MS-B';
+    src: url('../Fonts/Montserrat-Bold.ttf');
+    font-style: normal;
+    font-weight: 700;
+}
